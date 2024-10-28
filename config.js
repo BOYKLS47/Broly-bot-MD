@@ -3,12 +3,12 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url' 
 
 global.owner = [
-  [50231458537', 'Owner', true],
-  ['595975655723']
+  [24102692931', 'Owner', true],
+  ['24102692931']
 ] //Numeros de owner 
 
 global.mods = [''] 
-global.prems = ['50489079501', '573143917092']
+global.prems = ['24102692931', '573143917092']
 global.APIs = { // API Prefix
   // name: 'https://website' 
   nrtm: 'https://fg-nrtm.ddns.net',
@@ -20,11 +20,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '𝑩𝒓𝒐𝒍𝒚𝑩𝒐𝒕-𝑴𝑫' 
-global.author = '𝑩𝒓𝒂𝒚𝒂𝒏𝒀𝒕' 
+global.packname = '𝙶𝙾𝙳' 
+global.author = '𝙺𝙰𝙻𝚈𝚂' 
 
 //--info FG
-global.botName = '𝑩𝒓𝒐𝒍𝒚𝑩𝒐𝒕-𝑴𝑫'
+global.botName = '𝙺𝙰𝙻𝚈𝚂'
 global.fgig = 'https://instagram.com/brayanff502' 
 global.fgsc = 'https://github.com/El-brayan502/Broly-bot-MD' 
 global.fgyt = 'https://youtube.com/Naufrapo'
